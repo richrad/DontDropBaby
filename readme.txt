@@ -1,0 +1,3 @@
+This is a game called "Don't Drop Baby" that I wrote in Unity a long time ago. It was supposed to be for iOS but Apple wouldn't let me release it (they didn't like the name.) I got tired of arguing with them over a silly little game, reworked it for the web and put it on Kongregate, where it was rightly panned.
+
+Anyway. I still kind of like it! It's dumb but it was fun to make. So here's the source. Do with it as you will!
